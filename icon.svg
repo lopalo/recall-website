@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Recall: bilingual flashcards (Latin "A" behind, Cyrillic "Я" in front) -->
+  <rect width="512" height="512" rx="112" fill="#424242"/>
+  <g transform="translate(205 228) rotate(-12)">
+    <rect x="-90" y="-120" width="180" height="240" rx="26" fill="#00897b"/>
+    <path d="M-75 -30 L-45 -100 L-15 -30 M-65 -53 H-25" fill="none" stroke="#fff"
+      stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g transform="translate(300 290) rotate(8)">
+    <rect x="-90" y="-110" width="180" height="240" rx="26" fill="#000" opacity="0.3"/>
+    <rect x="-90" y="-120" width="180" height="240" rx="26" fill="#fff"/>
+    <path d="M30 -60 V60 M30 -60 H-12 A32 32 0 0 0 -12 4 H30 M3 4 L-40 60" fill="none"
+      stroke="#424242" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
